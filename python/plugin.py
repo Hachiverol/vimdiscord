@@ -17,8 +17,7 @@ BASE_ACTIVITY = {
     'assets': {
         'large_text': 'Vim',
         'large_image': 'vim_logo',
-        'small_text': 'The one true editor',
-        'small_image': 'vim_logo'
+        'small_text': 'The one true editor'
      }
  }
 
